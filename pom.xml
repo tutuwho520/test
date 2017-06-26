@@ -70,15 +70,7 @@
         </dependency>
 
 
-        <!-- logging tools  end-->
-        <!-- http://mvnrepository.com/artifact/org.apache.jmeter/jorphan -->
 
-        <dependency>
-            <groupId>com.jcloud.search</groupId>
-            <artifactId>sdk</artifactId>
-        <version>1.0-20170626.023747-1</version>
-        </dependency>
-        <!-- http://mvnrepository.com/artifact/org.apache.jmeter/ApacheJMeter_core -->
 
         <dependency>
             <groupId>org.testng</groupId>
